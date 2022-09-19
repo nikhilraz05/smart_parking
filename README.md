@@ -16,5 +16,3 @@ Compilation instruction-
 
 This program contains two files- "main.cpp" and "hungarian.h"
 "hungarian.h" is the implementation of the classical hungarian algorithm for linear assignment problem and is required by our main algorithm "main.cpp".
-
-Note- We have also included a "main.exe" file which is complied in our system and can be directly executed in windows platform by running command the "main.exe" inside the cmd opened in the corresponding folder.
